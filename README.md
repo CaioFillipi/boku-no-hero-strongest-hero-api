@@ -6,5 +6,5 @@
   <li>Java</li>
   <li>H2 Database</li>
   <li>Spring</li>
-  <li>Maven<li>
+  <li>Maven</li>
 <ul>
